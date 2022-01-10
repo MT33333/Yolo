@@ -1,0 +1,1 @@
+var floor = parseInt(prompt("Entrer letagereff"))
